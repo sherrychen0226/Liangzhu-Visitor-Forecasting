@@ -29,8 +29,4 @@ The model achieved the following performance on the test set:
 
 A covariate ablation study showed that **calendar information contributed significantly to forecasting accuracy**, while weather variables provided more limited overall improvements.
 
-## Project Report
 
-For detailed explanations of the methodology, data analysis, experiments, limitations, and future improvements, see the full report:
-
-**[Read the Full Project Report](docs/Liangzhu_Project_Report.pdf)**
